@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyAddressPlus</string>
+    <string name="first_name">first name</string>
+    <string name="mr">Mr.</string>
+    <string name="ms">Ms</string>
+    <string name="mrs">Mrs</string>
+    <string name="dr">Dr.</string>
+    <string name="last_name">last name</string>
+    <string name="post_code">post code</string>
+    <string name="submit">Submit</string>
+    <string name="about">About</string>
+    <string name="about_content">MyAddressPlus is nice and simple Android App
+        that allow users to insert,edit and delete address data. Enjoy!! </string>
+    <string name="no_item">Currently there are no items maintained</string>
+</resources>

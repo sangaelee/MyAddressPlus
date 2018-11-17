@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="provincearray">
+        <item>Alberta</item>
+        <item>British Columbia</item>
+        <item>New Brunswick</item>
+        <item>New Foundland</item>
+        <item>Nova Scotia</item>
+        <item>Ontario</item>
+        <item>Prince Edward</item>
+        <item>Saskatchewan</item>
+        <item>Quebec</item>
+        <item>Yukon</item>
+
+    </string-array>
+</resources>
